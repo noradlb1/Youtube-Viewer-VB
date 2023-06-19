@@ -1,0 +1,18 @@
+C:\Users\MONSTERMC\Downloads\Youtube-ViewBot-Form-main\Youtube-ViewBot-Form-main\Youtube Viewer Form\Youtube Viewer Form\bin\Debug\net6.0-windows\Youtube Viewer Form.exe
+C:\Users\MONSTERMC\Downloads\Youtube-ViewBot-Form-main\Youtube-ViewBot-Form-main\Youtube Viewer Form\Youtube Viewer Form\bin\Debug\net6.0-windows\Youtube Viewer Form.deps.json
+C:\Users\MONSTERMC\Downloads\Youtube-ViewBot-Form-main\Youtube-ViewBot-Form-main\Youtube Viewer Form\Youtube Viewer Form\bin\Debug\net6.0-windows\Youtube Viewer Form.runtimeconfig.json
+C:\Users\MONSTERMC\Downloads\Youtube-ViewBot-Form-main\Youtube-ViewBot-Form-main\Youtube Viewer Form\Youtube Viewer Form\bin\Debug\net6.0-windows\Youtube Viewer Form.dll
+C:\Users\MONSTERMC\Downloads\Youtube-ViewBot-Form-main\Youtube-ViewBot-Form-main\Youtube Viewer Form\Youtube Viewer Form\bin\Debug\net6.0-windows\ref\Youtube Viewer Form.dll
+C:\Users\MONSTERMC\Downloads\Youtube-ViewBot-Form-main\Youtube-ViewBot-Form-main\Youtube Viewer Form\Youtube Viewer Form\bin\Debug\net6.0-windows\Youtube Viewer Form.pdb
+C:\Users\MONSTERMC\Downloads\Youtube-ViewBot-Form-main\Youtube-ViewBot-Form-main\Youtube Viewer Form\Youtube Viewer Form\obj\Debug\net6.0-windows\Youtube Viewer Form.csproj.AssemblyReference.cache
+C:\Users\MONSTERMC\Downloads\Youtube-ViewBot-Form-main\Youtube-ViewBot-Form-main\Youtube Viewer Form\Youtube Viewer Form\obj\Debug\net6.0-windows\Youtube_Viewer_Form.Form1.resources
+C:\Users\MONSTERMC\Downloads\Youtube-ViewBot-Form-main\Youtube-ViewBot-Form-main\Youtube Viewer Form\Youtube Viewer Form\obj\Debug\net6.0-windows\Youtube Viewer Form.csproj.GenerateResource.cache
+C:\Users\MONSTERMC\Downloads\Youtube-ViewBot-Form-main\Youtube-ViewBot-Form-main\Youtube Viewer Form\Youtube Viewer Form\obj\Debug\net6.0-windows\Youtube Viewer Form.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MONSTERMC\Downloads\Youtube-ViewBot-Form-main\Youtube-ViewBot-Form-main\Youtube Viewer Form\Youtube Viewer Form\obj\Debug\net6.0-windows\Youtube Viewer Form.AssemblyInfoInputs.cache
+C:\Users\MONSTERMC\Downloads\Youtube-ViewBot-Form-main\Youtube-ViewBot-Form-main\Youtube Viewer Form\Youtube Viewer Form\obj\Debug\net6.0-windows\Youtube Viewer Form.AssemblyInfo.cs
+C:\Users\MONSTERMC\Downloads\Youtube-ViewBot-Form-main\Youtube-ViewBot-Form-main\Youtube Viewer Form\Youtube Viewer Form\obj\Debug\net6.0-windows\Youtube Viewer Form.csproj.CoreCompileInputs.cache
+C:\Users\MONSTERMC\Downloads\Youtube-ViewBot-Form-main\Youtube-ViewBot-Form-main\Youtube Viewer Form\Youtube Viewer Form\obj\Debug\net6.0-windows\Youtube Viewer Form.csproj.Fody.CopyLocal.cache
+C:\Users\MONSTERMC\Downloads\Youtube-ViewBot-Form-main\Youtube-ViewBot-Form-main\Youtube Viewer Form\Youtube Viewer Form\obj\Debug\net6.0-windows\Youtube Viewer Form.dll
+C:\Users\MONSTERMC\Downloads\Youtube-ViewBot-Form-main\Youtube-ViewBot-Form-main\Youtube Viewer Form\Youtube Viewer Form\obj\Debug\net6.0-windows\ref\Youtube Viewer Form.dll
+C:\Users\MONSTERMC\Downloads\Youtube-ViewBot-Form-main\Youtube-ViewBot-Form-main\Youtube Viewer Form\Youtube Viewer Form\obj\Debug\net6.0-windows\Youtube Viewer Form.pdb
+C:\Users\MONSTERMC\Downloads\Youtube-ViewBot-Form-main\Youtube-ViewBot-Form-main\Youtube Viewer Form\Youtube Viewer Form\obj\Debug\net6.0-windows\Youtube Viewer Form.genruntimeconfig.cache
